@@ -1,5 +1,9 @@
 # zillow scraper
 
+## Requirement
+- python3
+- [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads), note download the version that fits your Chrome version
+
 ## Usage
 
 example
